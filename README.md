@@ -5,5 +5,9 @@
 
 ## Upcoming projects
 
-1. **Offline POS system** (Not finished ❌) - ?
-2. **Random jackpots** (Not finished ❌) - ?
+1. **LAN POS system** (Not finished ❌) - ?
+2. **LAN Random jackpots** (Not finished ❌) - ?
+3. **LAN CMS Simulator** (Not finished ❌) - ?
+4. **50/50 Ladder game** (Not finished ❌) - ?
+5. **Red or black game** (Not finished ❌) - ?
+6. **Case simulator** (Not finished ❌) - ?
