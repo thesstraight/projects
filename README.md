@@ -12,3 +12,4 @@
 5. **Red or black game** (Not finished ❌) - ?
 6. **Case simulator** (Not finished ❌) - ?
 7. **Mix colors game** (Not finished ❌) - ?
+8. **Reaction game** (Not finished ❌) - ?
